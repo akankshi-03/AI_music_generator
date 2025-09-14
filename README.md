@@ -22,8 +22,6 @@ This project demonstrates how machine learning models can be trained to create u
 
 ---
 
----
-
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
